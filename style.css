@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h3{
+    color: darkblue;
+    font-weight: 900;
+}
+
+.fa-star{
+    color: gold;
+}
+
+.list-disc li{
+    padding-top: 0.5rem;
+}
+
+#Contact li {
+    margin-top: 0.5rem;
+}
+
+#Contact i {
+    font-size: xx-large;
+}
